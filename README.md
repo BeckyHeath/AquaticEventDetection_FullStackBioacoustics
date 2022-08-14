@@ -1,2 +1,0 @@
-# AquaticEventDetection_FullStackBioacoustics
- 
